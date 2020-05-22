@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome to my brag sheet
 
-I'm glad you are here. I plan to talk about ...
+My Name is Sophia.
+My picture will go here.
+I do not have social media.
