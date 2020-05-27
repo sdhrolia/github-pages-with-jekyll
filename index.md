@@ -1,6 +1,5 @@
 ## Hello!
 My Name is Sophia.
-My picture will go here.
 Instagram @justcalligrafying
 
 #### LEADERSHIP & MEDICINE RELATED EXPERIENCE
