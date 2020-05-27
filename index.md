@@ -1,9 +1,9 @@
-# Hello!
+## Hello!
 My Name is Sophia.
 My picture will go here.
 Instagram @justcalligrafying
 
-### LEADERSHIP & MEDICINE RELATED EXPERIENCE
+#### LEADERSHIP & MEDICINE RELATED EXPERIENCE
 
 **Milltown Rescue Squad, Milltown, NJ - Junior Captain**  Mar. 2019 - PRESENT
 
